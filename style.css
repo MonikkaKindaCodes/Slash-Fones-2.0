@@ -37,7 +37,13 @@ html {
 .pimg3 {
     background-image: url('brett-jordan-yBBrTuOwhNA-unsplash.jpg');
     min-height: 500px;
+
+}.pimg4 {
+    background-image: url('alphacolor-r6RCPk1X91c-unsplash.jpg');
+    min-height: 500px;
 }
+
+
 
 .section {
     text-align: center;
@@ -79,7 +85,8 @@ html {
 
     .pimg1,
     .pimg2,
-    .pimg3 {
+    .pimg3, 
+    .pimg4 {
         background-attachment: scroll;
     }
 }
