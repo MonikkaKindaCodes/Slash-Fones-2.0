@@ -9,6 +9,10 @@ html {
     color: #666666;
 }
 
+h1 {
+    color: #C0C0C0;
+    margin-bottom: 100px;
+}
 .pimg1,
 .pimg2,
 .pimg3,
@@ -80,6 +84,18 @@ html {
 
 .ptext .border.trans {
     background-color: transparent;
+}
+
+.fa-twitter {
+    color: #1DA1F2;
+}
+
+.fa-instagram {
+
+}
+
+.fa-linkedin {
+    color: #00456b;
 }
 
 @media(max-width: 568) {
