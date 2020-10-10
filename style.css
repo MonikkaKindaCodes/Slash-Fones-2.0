@@ -25,17 +25,17 @@ html {
 }
 
 .pimg1 {
-    background-image: url('/Landing/sebastian-banasiewcz-oXXc-s5nNy8-unsplash.jpg');
+    background-image: url('sebastian-banasiewcz-oXXc-s5nNy8-unsplash.jpg');
     min-height: 100%;
 }
 
 .pimg2 {
-    background-image: url('/Landing/lee-campbell-GI6L2pkiZgQ-unsplash\ \(1\).jpg');
+    background-image: url('lee-campbell-GI6L2pkiZgQ-unsplash\ \(1\).jpg');
     min-height: 500px;
 }
 
 .pimg3 {
-    background-image: url('/Landing/brett-jordan-yBBrTuOwhNA-unsplash.jpg');
+    background-image: url('brett-jordan-yBBrTuOwhNA-unsplash.jpg');
     min-height: 500px;
 }
 
