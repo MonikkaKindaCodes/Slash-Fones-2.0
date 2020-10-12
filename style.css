@@ -90,9 +90,6 @@ h1 {
     color: #1DA1F2;
 }
 
-.fa-instagram {
-
-}
 
 .fa-linkedin {
     color: #00456b;
@@ -102,7 +99,6 @@ h1 {
     height: 100px;
     width: 100px;
 }
-
 
 @media(max-width: 568) {
 
