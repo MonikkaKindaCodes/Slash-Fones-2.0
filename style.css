@@ -97,13 +97,20 @@ h1 {
 .fa-linkedin {
     color: #00456b;
 }
+.logo {
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+}
+
 
 @media(max-width: 568) {
 
     .pimg1,
     .pimg2,
     .pimg3, 
-    .pimg4 {
+    .pimg4, 
+    .logo {
         background-attachment: scroll;
     }
 }
