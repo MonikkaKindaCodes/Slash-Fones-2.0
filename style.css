@@ -13,6 +13,14 @@ h1 {
     color: #C0C0C0;
     margin-bottom: 100px;
 }
+
+#title {
+    font-size: 70px;
+}
+
+#closing {
+    font-size: 50px;
+}
 .pimg1,
 .pimg2,
 .pimg3,
