@@ -17,6 +17,7 @@ h1 {
 #title {
     font-size: 70px;
     margin-bottom: 100px;
+    padding: 20px;
 }
 
 #closing {
@@ -110,7 +111,10 @@ h1 {
     height: 100px;
     width: 100px;
 }
-
+.product {
+    height: 500px;
+    width: 350px;
+}
 @media(max-width: 568) {
 
     .pimg1,
