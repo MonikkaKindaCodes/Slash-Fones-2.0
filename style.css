@@ -16,6 +16,7 @@ h1 {
 
 #title {
     font-size: 70px;
+    margin-bottom: 100px;
 }
 
 #closing {
@@ -26,7 +27,7 @@ h1 {
 .pimg3,
 .pimg4 {
     position: relative;
-    opacity: 0.70;
+    opacity: 0.90;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
